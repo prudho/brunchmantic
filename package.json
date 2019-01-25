@@ -1,0 +1,18 @@
+{
+  "name": "brunchmantic",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "brunch w --server",
+    "build": "brunch b -p"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "auto-reload-brunch": "^2",
+    "brunch": "^2",
+    "copyfilemon-brunch": "^3.3.0",
+    "fomantic-ui-css": "^2.7.1",
+    "jquery": "^3.2.1",
+    "uglify-js-brunch": "^2"
+  }
+}
